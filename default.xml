@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="repo_demo"
+  <remote  name="demo"
            fetch=".."
            review="https://github.com/lemayn/" />
 
   <default revision="master"
-           remote="repo_demo"
+           remote="demo"
            sync-j="4" />
 
   <project path="repo_demo_project_1" name="lemayn/repo_demo_project_1" groups="default" />
