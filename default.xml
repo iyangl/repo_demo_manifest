@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="repo_demo"
-           fetch="https://github.com/lemayn/"
+           fetch=".."
            review="https://github.com/lemayn/" />
 
   <default revision="master"
